@@ -1,0 +1,3 @@
+
+# ignore macos spacial files
+.DS_Store
