@@ -1,26 +1,26 @@
-The Ultimate All-American Cheeseburger
-Print this recipe
-Ingredients
-For the burger patties:
-1 ½ pounds ground beef (80% lean, 20% fat)
-1 teaspoon kosher salt
-½ teaspoon freshly ground black pepper
-For the burger assembly:
-4 burger buns, preferably brioche or sesame seed
-4 slices of American cheese
-8 slices of crispy bacon
-1 large tomato, sliced
-1 red onion, thinly sliced
-4 leaves of lettuce (e.g., iceberg or romaine)
-Pickles (optional)
-For the special sauce:
-½ cup mayonnaise
-2 tablespoons ketchup
-1 tablespoon yellow mustard
-1 tablespoon sweet pickle relish
-1 teaspoon Worcestershire sauce
-1 teaspoon garlic powder
-Salt and pepper to taste
+# The Ultimate All-American Cheeseburger
+
+## Ingredients
+### **For the burger patties:**
+1. *1 ½ pounds ground beef (80% lean, 20% fat)*
+2. *1 teaspoon kosher salt*
+3. *½ teaspoon freshly ground black pepper*
+### **For the burger assembly:**
+1. *4 burger buns, preferably brioche or sesame seed*
+2. *4 slices of American cheese*
+3. *8 slices of crispy bacon*
+4. *1 large tomato, sliced*
+5. *1 red onion, thinly sliced*
+6. *4 leaves of lettuce (e.g., iceberg or romaine)*
+7. *Pickles (optional)*
+### **For the special sauce:**
+1. *½ cup mayonnaise*
+2. *2 tablespoons ketchup*
+3. *1 tablespoon yellow mustard*
+4. *1 tablespoon sweet pickle relish*
+5. *1 teaspoon Worcestershire sauce*
+6. *1 teaspoon garlic powder*
+7. *Salt and pepper to taste*
 Preparation
 1
 Preheat your grill or stovetop griddle to medium-high heat.
