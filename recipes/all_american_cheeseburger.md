@@ -1,5 +1,7 @@
 # The Ultimate All-American Cheeseburger
 
+![Cheeseburger](recipes/all_american_cheeseburger.jpg)
+
 ## Ingredients
 ### **For the burger patties:**
 1. *1 ½ pounds ground beef (80% lean, 20% fat)*
